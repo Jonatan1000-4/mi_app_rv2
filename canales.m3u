@@ -10,12 +10,12 @@ http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384311.m3u8
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384323.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="125 | CRONICA HD" tvg-logo="https://i.ibb.co/ZzGH0b3S/images.jpg" group-title="NACIONALES",125 | CRONICA HD
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384337.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="128 | A24 HD" tvg-logo="https://i.ibb.co/pv4Kf9D1/images.png" group-title="NACIONALES",128 | A24 HD
+http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384335.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="126 | CANAL 26 DE NOTICIAS SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShxTPhW_bp7ia83Wwb8ZtN0sE-dqon-Uuj6w&usqp=CAU" group-title="NACIONALES",AR-| CANAL 26 NOTICIAS SD
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384339.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="127| ARGENTINISIMA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSme3KO2n4jP4MV4eW2pFgxXKCr4wirNrpQg&usqp=CAU" group-title="NACIONALES",AR-| ARGENTINISIMA HD
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384340.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="128 | A24 HD" tvg-logo="https://i.ibb.co/pv4Kf9D1/images.png" group-title="NACIONALES",128 | A24 HD
-http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384335.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="129 | Canal 3 " tvg-logo="https://i.ibb.co/qYVCtrzC/pngtree-tv-logo-design-concept-company-elegant-multimedia-vector-picture-image-9946314.png" group-title="INTERIOR ARGENTINA",130 | Canal 3
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/397604.m3u8
@@ -342,4 +342,31 @@ http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426591.mp4
 #EXTINF:-1 tvg-id="" tvg-name="El abismo secreto (2025)" tvg-logo="http://goldfull.pro:8880/images/e886f915dfe4dc1a11d8d4887a1b0f1b.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",El abismo secreto (2025)
 http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426592.mp4
 
-
+#EXTINF:-1 tvg-id="" tvg-name="Imperios del éxtasis (2025)" tvg-logo="http://goldfull.pro:8880/images/f05a2a3e44fe9f2a498b5c5eeb39937e.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Imperios del éxtasis (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426345.mp4
+#EXTINF:-1 tvg-id="" tvg-name="The Witcher: Sirenas de las profundidades (2025)" tvg-logo="http://goldfull.pro:8880/images/ee4c62a8f51fc0955953a8c4a5e5c6b1.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",The Witcher: Sirenas de las profundidades (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426347.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Una muerte antes de una boda (2025)" tvg-logo="http://goldfull.pro:8880/images/5fa494f6a21c84e1e1d0b8ff6f93815f.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Una muerte antes de una boda (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426537.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Umami (2025)" tvg-logo="http://goldfull.pro:8880/images/31d6581a172f60be1c3072172c0af64d.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Umami (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426538.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Luna de miel con mamá (2025)" tvg-logo="http://goldfull.pro:8880/images/eda6e3891f5979274b960c77d45b111e.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Luna de miel con mamá (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426539.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La Dolce Casa (2025)" tvg-logo="http://goldfull.pro:8880/images/1fcb97d437ebe5640b5d43e9bb11e04f.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",La Dolce Casa (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426540.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El Hilo Rojo (2025)" tvg-logo="http://goldfull.pro:8880/images/ceb31a40e85b50d8b0875facd6cf4550.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",El Hilo Rojo (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426541.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Culpa Mía: Londres (2025)" tvg-logo="http://goldfull.pro:8880/images/407fb52b1a81e4615d229059e6498e59.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Culpa Mía: Londres (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426542.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Chica conoce a chico (2025)" tvg-logo="http://goldfull.pro:8880/images/bdb504ad1e53441ab7268f9962723a8e.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Chica conoce a chico (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="La chica más hermosa del mundo (2025)" tvg-logo="http://goldfull.pro:8880/images/ebbcb2c8fec1384e893498fd86a5988e.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",La chica más hermosa del mundo (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Dhoom Dhaam (2025)" tvg-logo="http://goldfull.pro:8880/images/74333f46da2af575b80b297276e122e3.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Dhoom Dhaam (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Bridget Jones: Loca por él (2025)" tvg-logo="http://goldfull.pro:8880/images/6678269f66f291ffd34465ad014a5a52.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Bridget Jones: Loca por él (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpson: Pasado Furioso (2025)" tvg-logo="http://goldfull.pro:8880/images/19dc35008897012284e969bb0b074859.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",Los Simpson: Pasado Furioso (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="El abismo secreto (2025)" tvg-logo="http://goldfull.pro:8880/images/e886f915dfe4dc1a11d8d4887a1b0f1b.jpg" group-title="⭐️ Estrenos 2025 ⭐️ ",El abismo secreto (2025)
+http://redworld.pro:8880/movie/Jonatan12/uwZEYrEuejWv/426592.mp4
