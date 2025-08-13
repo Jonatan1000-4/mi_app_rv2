@@ -107,7 +107,7 @@ http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/135439.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="301 | BABY TV" tvg-logo="http://redworld.pro:8880/images/637e562dbf5fd427957eb42dcd838054.png" group-title="INFANTILES",301 | BABY TV
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/321969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="302 | CARTOON NETWORK | OPC2" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="INFANTILES",302 | CARTOON NETWORK | OPC2
+#EXTINF:-1 tvg-id="" tvg-name="302 | CARTOON NETWORK | 2" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="INFANTILES",302 | CARTOON NETWORK | OPC2
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/321973.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="303 | CARTOON NETWORK" tvg-logo="http://redworld.pro:8880/images/c67ab172eb643fea7070b0a3514f4459.png" group-title="INFANTILES",303 | CARTOON NETWORK
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/321974.m3u8
@@ -305,3 +305,6 @@ http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/310608.m3u8
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/308919.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Jurassic World 4-6" tvg-logo="http://goldfull.pro:8880/images/818476414e6d47a629a2a804420815e6.png" group-title=" 24 - 7 ",24/7 Jurassic World 4-6
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/308920.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="http://goldfull.pro:8880/images/88eaac40b27c1b47df9a3f7b7d71e3e3.png" group-title="Musica",MTV
+http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/391345.m3u8
