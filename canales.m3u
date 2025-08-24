@@ -1,9 +1,3 @@
-#EXTINF:-1 tvg-id="" tvg-name="120 | AMERICA TV HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fgLDmFN8t0LWvb7rkI6ZCCiRJWEQheswpg&usqp=CAU" group-title="NACIONALES",120 | AMERICA TV HD
-http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384329.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="121 | TV PUBLICA HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6qM7GfDTvfBO-q63HLUW-QsbNWXiZEwqhkw&usqp=CAU" group-title="NACIONALES",121 | TV PUBLICA HD
-http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384320.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="122 | EL NUEVE SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSmX8tjoTHylcaDD3_48yzo6Nzx50MjRojLPA&usqp=CAU" group-title="NACIONALES",122 | EL NUEVE SD
-http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384326.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="123 | TELEFE HD" tvg-logo="https://i.ibb.co/PGbgnvQV/640px-Telefe-nuevo-logo.png" group-title="NACIONALES",AR | TELEFE HD
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/384311.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="124 | CANAL 13 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEUxd6vjCPiTZWnhGdbdAMoqNTZGbzvCHO1A&usqp=CAU" group-title="NACIONALES",AR | CANAL 13 HD
@@ -305,3 +299,4 @@ http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/310608.m3u8
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/308919.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Jurassic World 4-6" tvg-logo="http://goldfull.pro:8880/images/818476414e6d47a629a2a804420815e6.png" group-title=" 24 - 7 ",24/7 Jurassic World 4-6
 http://redworld.pro:8880/live/Jonatan12/uwZEYrEuejWv/308920.m3u8
+
